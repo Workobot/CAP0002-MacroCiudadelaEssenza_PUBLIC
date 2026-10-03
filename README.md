@@ -1,0 +1,1 @@
+# CAP0002-MacroCiudadelaEssenza_PUBLIC
