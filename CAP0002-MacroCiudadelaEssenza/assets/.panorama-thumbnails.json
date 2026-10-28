@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "[\"Albori\",\"amenidades\",\"BBQ\"]": {
+      "pose": {
+        "pitch": -12,
+        "yaw": -6,
+        "fov": 99
+      },
+      "signature": "356ae038bbacc0320a849737d950c121a0c9d6fae237fded7526260c0f4c8d0a",
+      "outputSize": 258368,
+      "outputMtime": 1793226879857.1345
+    },
+    "[\"Albori\",\"amenidades\",\"BBQ2\"]": {
+      "pose": {
+        "pitch": -8,
+        "yaw": -7,
+        "fov": 98
+      },
+      "signature": "3558794bc8de25be784010161084985784513f0f3c1cc5884ca4af9804fded5b",
+      "outputSize": 210387,
+      "outputMtime": 1793226897739.1858
+    },
+    "[\"Albori\",\"amenidades\",\"Escalera\"]": {
+      "pose": {
+        "pitch": -8,
+        "yaw": 0,
+        "fov": 102
+      },
+      "signature": "67d01fab13e81f0741b5724cd7320d9d3d87e2904f12ea51837503cf8e3ec518",
+      "outputSize": 239125,
+      "outputMtime": 1793226907251.6218
+    },
+    "[\"Albori\",\"amenidades\",\"LobbyExterior\"]": {
+      "pose": {
+        "pitch": 6,
+        "yaw": -20,
+        "fov": 107
+      },
+      "signature": "ec2805584d8b94b92acef85fe2830bf41246696c82d5b5917284faaf8083b540",
+      "outputSize": 250340,
+      "outputMtime": 1793226934738.3545
+    },
+    "[\"Albori\",\"amenidades\",\"Parque\"]": {
+      "pose": {
+        "pitch": -4,
+        "yaw": 0,
+        "fov": 96
+      },
+      "signature": "b79f3d75f5454457d35260716c92d57acc2772d2fac6a86c1f83159a632b6638",
+      "outputSize": 263953,
+      "outputMtime": 1793226944906.3188
+    },
+    "[\"Albori\",\"amenidades\",\"Peatonal\"]": {
+      "pose": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 90
+      },
+      "signature": "937cd2f073f79fc6d7cc0b5719de4c9fde67324e380558160bb1777160c72124",
+      "outputSize": 236683,
+      "outputMtime": 1793226954729.5864
+    }
+  }
+}
